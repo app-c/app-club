@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "club-app",
+    "slug": "club-app",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
